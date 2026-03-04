@@ -1,6 +1,10 @@
 # topic_modeling
 
-## Uses a virtual environment with the updated requirements.txt 
+This project implements two types of topic modeling approaches: (1) probabilistic and (2) clustering. 
+Models include: 
+- probabilistic: LDA, LSA
+- clustering: kmeans, DBSCAN, HDBSCAN
+The project uses a virtual environment (requirements.txt included). 
 
 ## Probabilistic (Statistical) Approaches - Latent Dirichlet Allocation, LSA
 
