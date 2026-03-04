@@ -25,6 +25,9 @@ Functions are built out to visualize the model's topics, examine topics, identif
   - Visualizations: 2D scatter plots of dimensionality-reduced clusters (colored), dendrograms (condensed, simple), word cloud (not yet implemented)
 
 ### Example Output from HDBSCAN + UMAP
+
+**(not ran on the optimized model - low scores)**
+
 <img width="1355" height="752" alt="image" src="https://github.com/user-attachments/assets/9073bc2d-838b-4928-9c01-84b2928a6768" />
 
 ### Optimization: grid search 
